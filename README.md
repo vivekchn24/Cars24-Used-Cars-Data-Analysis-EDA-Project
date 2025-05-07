@@ -5,13 +5,13 @@ This project involves performing Exploratory Data Analysis (EDA) on the Cars24 d
 
 This dataset is a collection of used cars that are registered on Cars24 Platform. In this dataset, we have more than 50000 rows and 17 columns, a fairly large dataset. You will be able to get hands-on experience while performing the following tasks and will be able to understand how real-world problem statement analysis is done.
 
-## **-->> 📁 Dataset**
+## **📁 Dataset**
 
 - ""Source"": Cars24 Used Cars public dataset (Downloaded from Kaggle / official source)
 - ""Rows"": Aprrox 1400+
 - ""Columns"": 10+ (various Cars & Cars-Model-Names,KM driven-details,etc.)
 
-## **-->> 📂 Cars24-Used-Cars-Data-Analysis-EDA-Project Folder Contains**
+## **📂 Cars24-Used-Cars-Data-Analysis-EDA-Project Folder Contains**
 
 - Cars24_DATA_ANALYSIS_EDA_PROJECT_VIVEK_CHAUHAN (Jupyter Notebook Code Pdf File)
 - Cars24_DATA_ANALYSIS_EDA_PROJECT_VIVEK_CHAUHAN (PowerPoint Presentation Slides Pdf File)
