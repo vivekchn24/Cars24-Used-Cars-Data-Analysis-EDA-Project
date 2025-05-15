@@ -3,7 +3,7 @@ This project involves performing Exploratory Data Analysis (EDA) on the Cars24 d
 
 ## **🍽️ Exploratory Data Analysis on Cars24 Used Car Dataset :-**
 
-This dataset is a collection of used cars that are registered on Cars24 Platform. In this dataset, we have more than 50000 rows and 17 columns, a fairly large dataset. You will be able to get hands-on experience while performing the following tasks and will be able to understand how real-world problem statement analysis is done.
+This dataset is a collection of used cars that are registered on Cars24 Platform. In this dataset, we have more than 1400+ rows and 10 columns, a fairly large dataset. You will be able to get hands-on experience while performing the following tasks and will be able to understand how real-world problem statement analysis is done.
 
 ## **📁 Dataset**
 
